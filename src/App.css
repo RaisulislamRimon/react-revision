@@ -1,0 +1,29 @@
+.App {
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-div {
+  height: 400px;
+  width: 400px;
+  text-align: justify;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
+
+.blog {
+  color: #ffffff;
+  background-color: #0202029c;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 1.25rem;
+}
